@@ -6,3 +6,5 @@ add 1 message by myself.
 add 2 message by myself.add 3 message by myself.
 add 1 message by myself.
 4
+Git has a mutable index called stage.
+...
