@@ -10,10 +10,4 @@ Git has a mutable index called stage.
 ...
 
 
-31231231e
-<<<<<<< HEAD
-+qwer
-12
-=======
-+qwer
->>>>>>> feature1
+ÐÞ¸Ä¹ýºó1
