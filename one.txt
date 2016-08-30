@@ -11,3 +11,5 @@ Git has a mutable index called stage.
 
 
 31231231e
++qwer
+12
